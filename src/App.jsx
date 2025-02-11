@@ -1,6 +1,5 @@
 import "./app.css";
 import { useReducer } from "react";
-import { LoginStatus } from "./components/state-management/LoginStatus";
 import tasksReducer from "./components/state-management/reducer/tasksReducer";
 import NavBar from "./components/state-management/NavBar";
 import HomePage from "./components/state-management/HomePage";
